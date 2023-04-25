@@ -14,6 +14,8 @@ Jupyter Notebook est installable notamment avec Anaconda https://www.anaconda.co
 ### Alternative : Jupyter Notebook Docker image  
 
 $ docker pull jupyter/minimal-notebook:latest
+
+
 $ docker run -p 8888:8888 jupyter/minimal-notebook 
 
 ![image](https://user-images.githubusercontent.com/47931933/234310165-63bd76bd-13cc-4d9e-a903-6ebcf175b88e.png)
