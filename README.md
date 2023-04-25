@@ -1,22 +1,9 @@
-# R101_1
+# python101
 
 
 Bases de la programmation
 
-Ce dépôt contient les ressources pour le cours R101_1 du département de l'IUT de Villetaneuse. Ces ressources sont libres mais sous copy left.
 
-## Accès aux données du dépôt 
-*Pour copier les données* dans un répertoire, utiliser la commande 
-```
-git clone git@github.com:iutVilletaneuseDptInfo/R101_1.git
-```
-Cela crée un dépot git intitulé R101_1.
-
-*Pour mettre à jour les données*, ouvrir un terminal dans le répertoire R101 et utiliser les commandes
-```
-git commit -am 'MaJ'
-git pull
-```
 
 ## Environnement interactif : Jupyter Notebook et Python Tutor
 
@@ -41,21 +28,9 @@ Sur les machines de l'IUT seule la dernière commande est nécessaire. Elle doit
 
 *Pour visualiser le code* : cliquer sur l'oeil qui apparait à gauche de chaque cellule de code, une fenêtre de suivi d'exécution s'ouvre alors. 
 
-## Environnement de travail à l'IUT
-Pour aller dans votre répertoire personnel et y conserver vos programmes, la commande
-```
-cd Mes_Montages/numero_etudiant 
-```
-permet d'accéder à votre repertoire personnel
 
-Ouvrir avec le clic droit de la souris un terminal dans `Mes_Montages` et lancer Python Tutor et Jupyter notebook. 
 
-## Mise à jour automatique du dépôt
 
-Pour mettre à jour automatiquement le dépôt (ie, récupérer les nouveaux chapitres), vous pouvez exécuter le script `updateDepot` situé dans le répertoire cloné :
-```bash
-./updateDepot
-```
 
 
 
